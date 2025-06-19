@@ -12,3 +12,11 @@ Basic settings:
   Baudrate 921600
   Resolution: 154x144
   RGB: 444
+
+To Do:
+-Fixing gain register
+-Fixing reading bug (sometimes gets to much pixels)
+-Making decode more independent 
+  *from external header file
+  *asking user to put desired resolution
+  *fixing output file to just OV reading
