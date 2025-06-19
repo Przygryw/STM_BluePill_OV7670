@@ -15,7 +15,7 @@ Basic settings:
 
 To Do:
 -Fixing gain register
--Fixing reading bug (sometimes gets to much pixels)
+-Fixing reading bug (sometimes gets to many pixels)
 -Making decode more independent 
   *from external header file
   *asking user to put desired resolution
